@@ -3,8 +3,7 @@ import csv
 from CSP import CSP
 from Map import Map
 
-
-col = ["#800080","#FFFF00","#00FF00","#FF00FF"]
+col = ["#ffff00","#09cd00","#f71200","#0005e0","#c526ff","#800080","#FFFF00","#00FF00","#FF00FF"]
 
 file = ""
 data = ""
